@@ -1,4 +1,5 @@
-# StayStrong_developers_edition 💪 Forked from StayStrong
+# StayStrong_developers_edition 💪 
+# Forked from StayStrong
 
 A simple API that provides motivational reasons to help developers through difficult moments. When life gets tough, sometimes we just need a gentle reminder of our worth and strength.
 
@@ -31,7 +32,7 @@ If you're reading this and you're struggling too, know that you're not alone. Th
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ale1x/staystrong.git
+git clone https://github.com/Exscess/staystrong_dev_edition.git
 cd staystrong
 
 # Install dependencies
