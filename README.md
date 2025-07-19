@@ -1,6 +1,6 @@
-# StayStrong 💪
+# StayStrong_developers_edition 💪 Forked from StayStrong
 
-A simple API that provides motivational reasons to help people through difficult moments. When life gets tough, sometimes we just need a gentle reminder of our worth and strength.
+A simple API that provides motivational reasons to help developers through difficult moments. When life gets tough, sometimes we just need a gentle reminder of our worth and strength.
 
 ## 🌟 What it does
 
